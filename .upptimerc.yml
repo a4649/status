@@ -15,9 +15,10 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Status
   introTitle: "Systems status"
   introMessage: This page is using the open-source code from [Upptime GitHub repository](https://github.com/upptime/upptime).
+  navbar:
     - title: Status
       href: /
     - title: GitHub
